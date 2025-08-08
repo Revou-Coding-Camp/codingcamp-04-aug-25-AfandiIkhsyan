@@ -44,3 +44,11 @@ Berikut adalah tampilan dari aplikasi To-Do List ini:
 ![Screenshot tampilan aplikasi To-Do List dengan tugas yang sudah selesai](/image/3.png)
 
 ---
+
+### Demo Langsung
+
+Berikut adalah tautan untuk mencoba aplikasi ini secara langsung:
+
+[![Live Demo](https://revou-coding-camp.github.io/codingcamp-04-aug-25-AfandiIkhsyan/)
+
+---
