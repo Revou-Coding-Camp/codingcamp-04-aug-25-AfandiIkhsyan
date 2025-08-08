@@ -49,6 +49,6 @@ Berikut adalah tampilan dari aplikasi To-Do List ini:
 
 Berikut adalah tautan untuk mencoba aplikasi ini secara langsung:
 
-[![Live Demo](https://revou-coding-camp.github.io/codingcamp-04-aug-25-AfandiIkhsyan/)
+[Live Demo](https://revou-coding-camp.github.io/codingcamp-04-aug-25-AfandiIkhsyan/)
 
 ---
