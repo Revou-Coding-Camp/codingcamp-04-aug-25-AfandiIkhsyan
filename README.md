@@ -7,7 +7,7 @@ Aplikasi web sederhana untuk mengelola daftar tugas harian. Proyek ini dibuat se
 - [Fitur](#fitur)
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)
 - [Screenshot](#screenshot)
-- [Cara Menjalankan Proyek](#cara-menjalankan-proyek)
+- [Live Demo](#Demo-Langsung)
 
 ---
 
